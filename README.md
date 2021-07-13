@@ -37,8 +37,6 @@ Getting started with static program analysis. Read this and start writing your f
 
 后续会考虑录制一些视频补充对动态例子的讲解。
 
-![感谢读者支持 :P](README.assets/image-20201231205814145.png)
-
 ## 这一《静态程序分析》教程对谁有用？
 
 学生，开发者，研究者……几乎所有当代生活者都能从中受益。
